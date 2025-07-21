@@ -1,0 +1,242 @@
+[
+    {
+    "id": 1,
+    "nombre": "Yerba Baldo 1kg",
+    "descripcion": "Yerba mate suave y equilibrada, ideal para quienes disfrutan de un sabor clásico y sin exceso de amargor.",
+    "precio": 8500,
+    "imagen": "baldo-1kg.png",
+    "categoria": "yerbas",
+    "calificaciones": [5, 4, 5],
+    "reviews": ["Excelente calidad"]
+    },
+    {
+    "id": 2,
+    "nombre": "Yerba Canarias 1kg",
+    "descripcion": "Yerba uruguaya de sabor intenso y duradero, con molienda fina y alto contenido de polvo.",
+    "precio": 9000,
+    "imagen": "canarias.png",
+    "categoria": "yerbas",
+    "calificaciones": [4, 3],
+    "reviews": ["Excelente calidad", "Muy buena"]
+    },
+    {
+    "id": 3,
+    "nombre": "Bolso de cuero liso negro",
+    "descripcion": "Bolso matero de cuero genuino con terminación lisa. Elegante y resistente, ideal para llevar todo lo necesario.",
+    "precio": 30000,
+    "imagen": "bolso-cuero.png",
+    "categoria": "materas",
+    "calificaciones": [4, 4],
+    "reviews": ["Excelente calidad", "Muy bueno, pero el color era distinto"]
+    },
+    {
+    "id": 4,
+    "nombre": "Bolso negro de cuero con bolsillo",
+    "descripcion": "Versión práctica del bolso matero con bolsillo externo para guardar bombilla, llaves o celular.",
+    "precio": 35000,
+    "imagen": "bolso-cuero-bolsillo.png",
+    "categoria": "materas",
+    "calificaciones": [5, 4],
+    "reviews": ["Muy bueno"]
+    },
+    {
+    "id": 5,
+    "nombre": "Bolso marrón de cuero con bolsillo",
+    "descripcion": "Versión práctica del bolso matero con bolsillo externo para guardar bombilla, llaves o celular.",
+    "precio": 35000,
+    "imagen": "bolso-cuero-bolsillo-marron.png",
+    "categoria": "materas",
+    "calificaciones": [4, 5, 3],
+    "reviews": ["Me encantó", "Que buena calidad"]
+    },
+    {
+    "id": 6,
+    "nombre": "Canasta negra matera",
+    "descripcion": "Canasta artesanal de cuero reforzado, perfecta para transportar mate, termo y accesorios.",
+    "precio": 32000,
+    "imagen": "canasta-matera-negra.png",
+    "categoria": "materas",
+    "calificaciones": [5, 3],
+    "reviews": ["Me encantó"]
+    },
+    {
+    "id": 7,
+    "nombre": "Canasta marrón matera",
+    "descripcion": "Canasta artesanal de cuero reforzado, perfecta para transportar mate, termo y accesorios.",
+    "precio": 32000,
+    "imagen": "canasta-matera-marron.png",
+    "categoria": "materas",
+    "calificaciones": [5, 3],
+    "reviews": ["Me encantó"]
+    },
+    {
+    "id": 8,
+    "nombre": "Bombilla alpaca hojas",
+    "descripcion": "Bombilla artesanal decorada con grabado de hojas. Filtro desmontable, resistente y elegante.",
+    "precio": 25000,
+    "imagen": "bombilla-alpaca-hojas.png",
+    "categoria": "bombillas",
+    "calificaciones": [5, 5],
+    "reviews": ["Hermosa bombilla"]
+    },
+    {
+    "id": 9,
+    "nombre": "Bombilla alpaca mediana",
+    "descripcion": "Bombilla de tamaño estándar en alpaca, ideal para mates medianos. Liviana y duradera.",
+    "precio": 22000,
+    "imagen": "bombilla-alpaca-mediana.png",
+    "categoria": "bombillas",
+    "calificaciones": [5, 5, 4, 5],
+    "reviews": ["Excelente calidad"]
+    },
+    {
+    "id": 10,
+    "nombre": "Bombilla alpaca pico de loro",
+    "descripcion": "Diseño curvo tipo pico de loro que facilita el cebado. Estilo clásico y funcional.",
+    "precio": 23000,
+    "imagen": "bombilla-alpaca-picodeloro.png",
+    "categoria": "bombillas",
+    "calificaciones": [5, 5, 4, 5],
+    "reviews": ["Excelente calidad"]
+    },
+    {
+    "id": 11,
+    "nombre": "Bombilla alpaca pico de rey",
+    "descripcion": "Bombilla robusta, con diseño curvo ancho y elegante. Ideal para mates de boca grande.",
+    "precio": 22000,
+    "imagen": "bombilla-alpaca-picoderey.png",
+    "categoria": "bombillas",
+    "calificaciones": [4, 3, 4, 5],
+    "reviews": ["Excelente calidad"]
+    },
+    {
+    "id": 12,
+    "nombre": "Mate camionero liso",
+    "descripcion": "Mate de calabaza forrado en cuero liso. Clásico, resistente y de boca ancha para cebadas abundantes.",
+    "precio": 45000,
+    "imagen": "camionero-liso.png",
+    "categoria": "mates",
+    "calificaciones": [5],
+    "reviews": ["Hermosura de mate"]
+    },
+    {
+    "id": 13,
+    "nombre": "Mate imperial abstracto",
+    "descripcion": "Mate imperial con diseño abstracto grabado. Estilo sofisticado, con virola de alpaca.",
+    "precio": 49000,
+    "imagen": "imperial-abstracta.png",
+    "categoria": "mates",
+    "calificaciones": [5, 4, 4],
+    "reviews": ["Hermoso!"]
+    },
+    {
+    "id": 14,
+    "nombre": "Mate imperial croco",
+    "descripcion": "Mate forrado en cuero con textura tipo cocodrilo. Elegancia y originalidad en cada cebada.",
+    "precio": 48000,
+    "imagen": "imperial-croco.png",
+    "categoria": "mates",
+    "calificaciones": [5, 4],
+    "reviews": ["Hermoso!", "Que espectacular!"]
+    },
+    {
+    "id": 15,
+    "nombre": "Mate imperial guarda pampa",
+    "descripcion": "Diseño tradicional con grabado de guarda pampa. Ideal para quienes valoran lo criollo.",
+    "precio": 46000,
+    "imagen": "imperial-pampa.png",
+    "categoria": "mates",
+    "calificaciones": [5, 4, 5],
+    "reviews": ["Que lindo!"]
+    },
+    {
+    "id": 16,
+    "nombre": "Mate torpedo imperial",
+    "descripcion": "Mate torpedo con virola de alpaca y detalles finos. Combinación de comodidad y elegancia.",
+    "precio": 42000,
+    "imagen": "torpedo-imperial.png",
+    "categoria": "mates",
+    "calificaciones": [5, 4, 5],
+    "reviews": ["Que lindo!", "Practico, comodo, distinto"]
+    },
+    {
+    "id": 17,
+    "nombre": "Mate torpedo liso",
+    "descripcion": "Mate torpedo de cuero liso, minimalista y cómodo para el uso diario.",
+    "precio": 40000,
+    "imagen": "torpedo-liso.png",
+    "categoria": "mates",
+    "calificaciones": [5, 4, 5],
+    "reviews": ["Que hermoso!"]
+    },
+    {
+    "id": 18,
+    "nombre": "Despolvillador",
+    "descripcion": "Accesorio práctico para quitar el exceso de polvo de la yerba antes de cebar. Mejora el sabor y evita obstrucciones.",
+    "precio": 8000,
+    "imagen": "despolvillador.png",
+    "categoria": "accesorios",
+    "calificaciones": [4, 5],
+    "reviews": ["Gran accesorio!"]
+    },
+    {
+    "id": 19,
+    "nombre": "Tapon cebador",
+    "descripcion": "Tapón plástico o de silicona para cebar en termos sin perder temperatura ni derramar.",
+    "precio": 14000,
+    "imagen": "tapon-cebador-mediamanija.png",
+    "categoria": "accesorios",
+    "calificaciones": [4, 5],
+    "reviews": []
+    },
+    {
+    "id": 20,
+    "nombre": "Vertedor de yerba",
+    "descripcion": "Accesorio para verter yerba en el mate o recipiente sin ensuciar. Rápido y limpio.",
+    "precio": 10000,
+    "imagen": "vertedor-yerba.png",
+    "categoria": "accesorios",
+    "calificaciones": [4, 5],
+    "reviews": ["Hermoso accesorio"]
+    },
+    {
+    "id": 21,
+    "nombre": "Termo Stanley negro",
+    "descripcion": "Termo Stanley clásico en color negro. Mantiene la temperatura por horas y es ultra resistente.",
+    "precio": 110000,
+    "imagen": "stanley-negro.png",
+    "categoria": "termos",
+    "calificaciones": [4, 5],
+    "reviews": ["Que pedazo de termo!"]
+    },
+    {
+    "id": 22,
+    "nombre": "Termo Stanley verde",
+    "descripcion": "Modelo tradicional color verde. Icónico por su durabilidad y conservación del calor.",
+    "precio": 100000,
+    "imagen": "stanley-verde.png",
+    "categoria": "termos",
+    "calificaciones": [4, 5],
+    "reviews": ["Que pedazo de termo!"]
+    },
+    {
+    "id": 23,
+    "nombre": "Termo Termolar de aluminio",
+    "descripcion": "Termo liviano de aluminio con excelente capacidad térmica. Ideal para el día a día.",
+    "precio": 80000,
+    "imagen": "termolar-aluminio.png",
+    "categoria": "termos",
+    "calificaciones": [4, 5],
+    "reviews": ["Muy buen termo!"]
+    },
+    {
+    "id": 24,
+    "nombre": "Termo Termolar negro",
+    "descripcion": "Termo resistente con diseño moderno en color negro. Conserva la temperatura y es fácil de transportar.",
+    "precio": 85000,
+    "imagen": "termolar-negro.png",
+    "categoria": "termos",
+    "calificaciones": [4, 5],
+    "reviews": ["Muy buen termo!"]
+    }
+]

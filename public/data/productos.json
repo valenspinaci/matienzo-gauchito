@@ -1,0 +1,32 @@
+[
+    {
+    "id": 1,
+    "nombre": "Mate Imperial",
+    "descripcion": "Mate de calabaza forrado en cuero",
+    "precio": 4200,
+    "imagen": "termo.png",
+    "categoria": "mates",
+    "calificaciones": [5, 4, 5],
+    "reviews": ["Excelente calidad"]
+    },
+    {
+    "id": 2,
+    "nombre": "Bombilla curva",
+    "descripcion": "De acero inoxidable",
+    "precio": 1200,
+    "imagen": "termo.png",
+    "categoria": "bombillas",
+    "calificaciones": [4, 3],
+    "reviews": ["Excelente calidad", "Muy bueno, pero el color era distinto"]
+    },
+        {
+    "id": 3,
+    "nombre": "Matera de cuero",
+    "descripcion": "De cuero vacuno",
+    "precio": 1000,
+    "imagen": "termo.png",
+    "categoria": "materas",
+    "calificaciones": [4, 4],
+    "reviews": ["Excelente calidad", "Muy bueno, pero el color era distinto"]
+    }
+]
